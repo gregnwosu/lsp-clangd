@@ -18,7 +18,7 @@ installed by all the same methods for installing Clang 5 or later.
 With macOs, the easiest way is to install via Homebrew.
 
 ``` shell
-brew install llvm
+brew install llvm --HEAD
 ```
 
 ## Enabling `lsp-clangd`
